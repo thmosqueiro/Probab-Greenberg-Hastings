@@ -1,0 +1,7 @@
+Copie o arquivo ta_histogram.f90 para a pasta que vc quer usá-lo
+
+Compile (só necessário uma vez)
+gfortran ta_histogram.f90 -O3 -o histo_create.exe
+
+Para rodar, use:
+./histo_create.exe log-cumulative <DADOS DE ENTRADA> <NUM DE PONTOS> <VALOR DO MAIOR DADO> <NUM DE BINS> <ARQUIVO DE SAÍDA>
