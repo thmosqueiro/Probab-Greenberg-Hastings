@@ -30,7 +30,7 @@ the core folder is self-contained). All you'll need is a fortran
 compiler, either Intel's or GCC.
 
 However, to run the example in Example folder, you'll also need
-GnuPlot and python 2.7. Pypy is preferable.
+GnuPlot, texlife-epstopdf and python 2.7. Pypy is preferable.
 
 
 License
