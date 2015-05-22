@@ -47,6 +47,6 @@ time ./size_av $RANDOM $nneurons $ntrials $sigma $k $Tsimul $file $dataprog $log
 
 mv fort.1 Exp_SizeAvalanches_ErdosRenyi_s$sigma..K$k..N$nneurons..$dataprog.log
 
-mv $file Exp_SizeAvalanches_ErdosRenyi_s$sigma..K$k..N$nneurons..$dataprog.data
+mv $file Exp_SizeAvalanches_ErdosRenyi_s$sigma..K$k..N$nneurons.data
 
 rm -f *.o *.~ size_av

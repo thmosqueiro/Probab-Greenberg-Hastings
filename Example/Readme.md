@@ -11,6 +11,7 @@ and subroutines. To run this example, simply run
 chmod +x experiment.sh
 sh experiment.sh
 ```
+It should take a few minutes to complete.
 
 First of all, view file size_av.sh as a kind of old-fashioned
 Makefile: it will compile the fortran using the environment variables
