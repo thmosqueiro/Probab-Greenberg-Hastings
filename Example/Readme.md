@@ -11,7 +11,12 @@ and subroutines. To run this example, simply run
 chmod +x experiment.sh
 sh experiment.sh
 ```
-It should take a few minutes to complete.
+It should take a few minutes to complete. At the end, you should see two PDF files that should look similar to:
+
+<img src="https://raw.githubusercontent.com/thmosqueiro/Probab-Greenberg-Hastings/master/Example/plot_CDFs.png" width=350px />
+<img src="https://raw.githubusercontent.com/thmosqueiro/Probab-Greenberg-Hastings/master/Example/plot_PDFs.png" width=300px />
+
+These results show in green a subcritical avalanche distribution and in blue, a critical distribution. 
 
 First of all, view file size_av.sh as a kind of old-fashioned
 Makefile: it will compile the fortran using the environment variables
