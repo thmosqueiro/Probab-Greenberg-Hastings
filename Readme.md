@@ -22,6 +22,14 @@ you are using this code, please (please!!)  star this repository and
 cite [T Mosqueiro & L Maia -- Phys Rev E v88
 p012712](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012712).
 
+In the folder Example, you'll find a simple piece of code to illustrate how to simulate neuronal avalanches and plot them. The result looks like
+<img src="https://raw.githubusercontent.com/thmosqueiro/Probab-Greenberg-Hastings/master/Example/plot_CDFs.png" width=350px />
+<img src="https://raw.githubusercontent.com/thmosqueiro/Probab-Greenberg-Hastings/master/Example/plot_PDFs.png" width=300px />
+
+These results show in green a subcritical avalanche distribution and
+in blue, a critical distribution. Inside Example folder, check Readme.md for more information.
+
+
 Dependencies
 ---
 
