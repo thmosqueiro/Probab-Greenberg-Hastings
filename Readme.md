@@ -6,10 +6,10 @@ Greenberg-Hastings automaton. This implementation is the result of two
 years of my PhD with Prof. Dr. Leonardo P. Maia, where we were
 investigating neuronal avalanches from the point of view of a simple
 toy model that mimics basic features in neurodynamics. This model is
-based in some papers ([Haldeman & Beggs -
-Phys. Rev.](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.94.058101#fulltext),
+based in some papers ([Bornholdt & Röhl](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.67.066118), [Haldeman & Beggs -
+Phys. Rev.](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.94.05810), [Copelli,  Roque, Oliveira & Kinouchi](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.060901), 
 [Kinouchi & Copelli - Nat
-Phys.](http://www.nature.com/nphys/journal/v2/n5/full/nphys289.html)). I'm
+Phys.](http://www.nature.com/nphys/journal/v2/n5/full/nphys289.html), [T Mosqueiro & L Maia - Phys Rev E](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012712)). I'm
 not just sharing the core code, but also a small example script to
 reproduce one of the figures shown in [this
 paper](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012712). You
