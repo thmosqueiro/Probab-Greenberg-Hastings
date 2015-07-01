@@ -1,6 +1,10 @@
 Probabilistic Greenberg-Hastings
 ====
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19154.svg)](http://dx.doi.org/10.5281/zenodo.19154)
+
+<br />
+
 In this repository, you'll find an implementation of the probabilistic
 Greenberg-Hastings automaton. This implementation is the result of two
 years of my PhD with Prof. Dr. Leonardo P. Maia, where we were
